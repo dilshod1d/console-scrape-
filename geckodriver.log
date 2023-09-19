@@ -1,0 +1,215 @@
+1670837211489	geckodriver	INFO	Listening on 127.0.0.1:56704
+1670837211728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56705" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofilekReslm"
+1670837212834	Marionette	INFO	Marionette enabled
+1670837213295	Marionette	INFO	Listening on port 56712
+WebDriver BiDi listening on ws://127.0.0.1:56705
+Read port: 56712
+1670837213546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofilekReslm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56705/devtools/browser/a85bd5eb-4c0e-4e06-9183-4ab8f65a3b25
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+SourceActor threw an exception: Error: Failed to fetch https://telegram.me/_websync_?authed=0&version=1.57.2+Z. Code 2152398878.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:560:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 560, column: 16
+console.error: (new Error("Failed to fetch https://telegram.me/_websync_?authed=0&version=1.57.2+Z. Code 2152398878.", "resource://devtools/shared/DevToolsUtils.js", 560))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 560: Error: Failed to fetch https://telegram.me/_websync_?authed=0&version=1.57.2+Z. Code 2152398878.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.telegram.org."
+1670837629818	geckodriver	INFO	Listening on 127.0.0.1:56926
+1670837630194	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56927" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileVmdyAG"
+1670837631284	Marionette	INFO	Marionette enabled
+1670837631390	Marionette	INFO	Listening on port 56934
+Read port: 56934
+WebDriver BiDi listening on ws://127.0.0.1:56927
+Read port: 56934
+1670837632796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileVmdyAG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56927/devtools/browser/e8cc040d-8a31-4415-9030-8f9aab943b5a
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670837826272	geckodriver	INFO	Listening on 127.0.0.1:57038
+1670837826626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57039" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileC6ho8u"
+1670837827867	Marionette	INFO	Marionette enabled
+1670837827943	Marionette	INFO	Listening on port 57046
+Read port: 57046
+Read port: 57046
+WebDriver BiDi listening on ws://127.0.0.1:57039
+1670837829202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileC6ho8u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57039/devtools/browser/738dba52-f186-4959-bfa6-e8404430ed31
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+1670838010637	geckodriver	INFO	Listening on 127.0.0.1:57147
+1670838010995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57148" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileZby81y"
+1670838012916	Marionette	INFO	Marionette enabled
+1670838012985	Marionette	INFO	Listening on port 57154
+Read port: 57154
+WebDriver BiDi listening on ws://127.0.0.1:57148
+1670838028347	geckodriver	INFO	Listening on 127.0.0.1:57168
+1670838028736	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57169" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofilePOL510"
+1670838030140	Marionette	INFO	Marionette enabled
+1670838030284	Marionette	INFO	Listening on port 57174
+Read port: 57174
+WebDriver BiDi listening on ws://127.0.0.1:57169
+1670838031640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofilePOL510/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57169/devtools/browser/4c6d70ed-b9b0-4601-83c5-c37190dd45b3
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1670838111625	geckodriver	INFO	Listening on 127.0.0.1:57226
+1670838112007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57227" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileF4hrWX"
+1670838112864	Marionette	INFO	Marionette enabled
+1670838112913	Marionette	INFO	Listening on port 57232
+Read port: 57232
+WebDriver BiDi listening on ws://127.0.0.1:57227
+1670838113845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileF4hrWX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57227/devtools/browser/ab308b89-5862-41c5-bf34-7202e4221458
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670838677913	geckodriver	INFO	Listening on 127.0.0.1:57541
+1670838678269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57542" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileqMrua6"
+1670838679520	Marionette	INFO	Marionette enabled
+1670838679601	Marionette	INFO	Listening on port 57548
+Read port: 57548
+WebDriver BiDi listening on ws://127.0.0.1:57542
+1670838680587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileqMrua6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57542/devtools/browser/e5acdcaa-f739-4974-ac9e-f0f04532e077
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1670838880076	geckodriver	INFO	Listening on 127.0.0.1:57647
+1670838880443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57648" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileuGdPzD"
+1670838881655	Marionette	INFO	Marionette enabled
+1670838881750	Marionette	INFO	Listening on port 57654
+Read port: 57654
+WebDriver BiDi listening on ws://127.0.0.1:57648
+1670838882293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileuGdPzD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57648/devtools/browser/613f4438-0a6f-49e9-922e-022f8f07cf8e
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670839060107	geckodriver	INFO	Listening on 127.0.0.1:57770
+1670839060464	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57771" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofile5YYEMU"
+1670839061631	Marionette	INFO	Marionette enabled
+1670839061664	Marionette	INFO	Listening on port 57776
+Read port: 57776
+WebDriver BiDi listening on ws://127.0.0.1:57771
+1670839062313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofile5YYEMU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57771/devtools/browser/8af16aa5-ded6-4884-b2f3-eb27c2a9579f
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670839216703	geckodriver	INFO	Listening on 127.0.0.1:57864
+1670839217072	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57865" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileeUdtF9"
+1670839218744	Marionette	INFO	Marionette enabled
+1670839218813	Marionette	INFO	Listening on port 57870
+Read port: 57870
+WebDriver BiDi listening on ws://127.0.0.1:57865
+1670839219783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofileeUdtF9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57865/devtools/browser/c683e41b-14b8-45e3-9369-0d21e2cb18c7
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+[GFX1-]: Managed to allocate after flush.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/z7cUAtzL1u1d_2AGWF4wFgnTveRSMJLcB1xcawACHJQ.js line 2 > eval line 5616 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/z7cUAtzL1u1d_2AGWF4wFgnTveRSMJLcB1xcawACHJQ.js line 2 > eval line 1658 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/z7cUAtzL1u1d_2AGWF4wFgnTveRSMJLcB1xcawACHJQ.js line 2 > eval line 940 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/z7cUAtzL1u1d_2AGWF4wFgnTveRSMJLcB1xcawACHJQ.js line 2 > eval line 3712 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+1670843465429	geckodriver	INFO	Listening on 127.0.0.1:62342
+1670843465736	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62343" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofilerlyH2H"
+1670843467442	Marionette	INFO	Marionette enabled
+1670843467485	Marionette	INFO	Listening on port 62348
+Read port: 62348
+WebDriver BiDi listening on ws://127.0.0.1:62343
+Read port: 62348
+1670843468895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9d/3g9shp8n1mlcbq7h_gqlltzc0000gn/T/rust_mozprofilerlyH2H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62343/devtools/browser/4eea2f1d-19fa-49ac-bfba-7279e77933f7
+JavaScript warning: https://web.telegram.org/js/app.js, line 20: asm.js type error: duplicate name 'n' not allowed
+JavaScript warning: https://web.telegram.org/js/app.js, line 31: asm.js type error: numeric literal out of representable integer range
+JavaScript warning: https://web.telegram.org/js/app.js, line 36: asm.js type error: fixnum is not a subtype of double? or floatish
+JavaScript warning: https://web.telegram.org/js/app.js, line 53: asm.js type error: double is not a subtype of int
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Managed to allocate after flush.
+JavaScript error: https://respond.io/blog/telegram-link-generator, line 731: TypeError: document.getElementById(...) is null
+JavaScript error: https://respond.io/blog/telegram-link-generator, line 735: TypeError: document.getElementById(...) is null
+JavaScript error: https://respond.io/blog/telegram-link-generator, line 726: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript error: https://telegramchannels.me/, line 3454: TypeError: document.activeElement.href is undefined
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/z7cUAtzL1u1d_2AGWF4wFgnTveRSMJLcB1xcawACHJQ.js line 2 > eval line 428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.telegram.org/k/main.d7899a70156bdad3a9a0.bundle.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+1670846544352	Marionette	INFO	Stopped listening on port 62348
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670846544701	Marionette	INFO	Stopped listening on port 57870
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
